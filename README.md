@@ -13,5 +13,5 @@
 ## ¿Qué es Harry Potter?
 Harry Potter es una serie de novelas fantásticas escrita por la autora británica J. K. Rowling, en la que se describen las aventuras del joven aprendiz de magia y hechicería Harry Potter y sus amigos Hermione Granger y Ron Weasley, durante los años que pasan en el Colegio Hogwarts de Magia y Hechicería. El argumento se centra en la lucha entre Harry Potter y el malvado mago lord Voldemort, quien asesinó a los padres de Harry en su afán de conquistar el mundo mágico.
 
-## ¿Como se implento el Monopoly?
-Haciendo uso de listas se almaceno en ellas la información de cada casilla, y a medida que el usuario iba moviendo el dado, la lista se iba desplazando, y se almacenaba la información. La interfaz grafica se creo apartir de Illustrator, y el algoritmo se realizado en la IDE Processing.
+## ¿Como se implemento el Monopoly?
+Haciendo uso de listas se almaceno en ellas la información de cada casilla, y a medida que el usuario se va moviendo, la lista se iba desplazando, y se almacenaba la información. La interfaz grafica se creo apartir de Illustrator, y el algoritmo se realizado en la IDE Processing.
