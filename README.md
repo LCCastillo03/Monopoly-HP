@@ -4,4 +4,4 @@ Monopoly temático de Harry Potter
 - Uso de listas, archivos.
 - Autores: Edgar Garcia, Jean Herran, Tomas Cervero, Lena Castillo.
 - Profesor: Joao Racedo.
-- Tutor: Sebastian Racedo.
+- Tutor: Sebastian Perea.
