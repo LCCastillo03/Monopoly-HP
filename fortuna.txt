@@ -1,6 +1,0 @@
-Paga cuotas médicas por M50
-Paga cuotas de escuela por M20
-Hereda M100
-Es tu cumpleaños recibe M10 de cada jugador
-Vaya directamente a la cárcel
-Salida gratis
